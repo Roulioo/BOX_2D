@@ -1,6 +1,6 @@
 # BOX_2D
 
-Games with geometric figures move randomly in the web page.
+This website has different pages, each page has its importance. The introduction to the history of the earth-moon journey, seen from space with the earth and the planets revolving around it, then the journey, a system allowing to calculate the time to complete the journey.
 
 # How to test
 
