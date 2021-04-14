@@ -2,6 +2,11 @@
 
 Games with geometric figures move randomly in the web page.
 
+# Technologies
+
+- Javascript
+- Box2D
+
 # How to test
 
 1. Go to current folder of project in terminal
